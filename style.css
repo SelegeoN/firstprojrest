@@ -80,7 +80,7 @@ nav ul {
 #hero {
   min-height: 90vh;
   background: linear-gradient(rgba(78, 21, 21, 0.4), transparent),
-    url(/img/nick-karvounis-Ciqxn7FE4vE-unsplash.jpg);
+    url(img/nick-karvounis-Ciqxn7FE4vE-unsplash.jpg);
   background-size: cover;
   color: white;
   display: flex;
@@ -99,7 +99,7 @@ nav ul {
 #menu {
   min-height: 80vh;
   background: linear-gradient(rgba(78, 21, 21, 0.4), transparent),
-    url(/img/patrick-tomasso-GXXYkSwndP4-unsplash.jpg);
+    url(img/patrick-tomasso-GXXYkSwndP4-unsplash.jpg);
   background-size: cover;
   background-position: center;
   color: rgb(255, 255, 255);
@@ -232,7 +232,7 @@ nav ul {
 #contact {
   min-height: 100vh;
   background: linear-gradient(rgba(226, 226, 226, 0.1), transparent),
-    url(/img/michael-browning-MtqG1lWcUw0-unsplash.jpg);
+    url(img/michael-browning-MtqG1lWcUw0-unsplash.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
